@@ -1,0 +1,5 @@
+[controller_ubuntu]
+192.168.56.5 ansible_user=jessielazo ansible_python_interpreter=/usr/bin/python3
+
+[controller_centos]
+192.168.56.104 ansible_user=jlazo ansible_python_interpreter=/usr/bin/python3
